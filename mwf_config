@@ -1,0 +1,12 @@
+<MWFConfig>
+  <FileDialog>
+    <value name="Height" type="int">385</value>
+    <value name="Y" type="int">178</value>
+    <value name="X" type="int">402</value>
+    <value name="FileNames" type="string-array">
+      <string>Z:\home\ostende\Téléchargements\vmlinuz-initrd_vusolo2_20130212.tar.gz</string>
+    </value>
+    <value name="LastFolder" type="string">Z:\home\ostende\Téléchargements</value>
+    <value name="Width" type="int">555</value>
+  </FileDialog>
+</MWFConfig>
